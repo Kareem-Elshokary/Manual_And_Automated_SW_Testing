@@ -4,20 +4,22 @@ I'm a software tester with experience in performing Manual testing, API testing,
 
 **Skills**
 
-Manual Testing
+### Manual Testing
 - Writing test scenarios and detailed test cases
 - Perform manual functional and usability testing of web & mobile applications
 - Identifying and documenting defects
 
-Test analysis & design
+### Test analysis & design
 - Can apply equivalence partitioning, boundary value analysis and methods of pairwise testing to generate test input data
 
-API testing
+### API testing
 - Experience through manual & automated testing of APIs
 
-SQL databases
+### Databases
+- Good knowledge about databases & SQL
 
-Java Development
+### Java Development
+- Experience working with java
 
 **Tools**
 - Trello
