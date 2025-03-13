@@ -2,6 +2,7 @@
 
 I'm a software tester with experience in performing Manual testing, API testing, and Automation Testing of Software, Embedded Systems, and IOT applications to ensure the highest quality and usability of the software.
 
+
 ### Skills
 
 **Manual Testing**
@@ -18,11 +19,13 @@ I'm a software tester with experience in performing Manual testing, API testing,
 **Java Development**
 - Building Java applications and automation scripts.
 
+
 ### Tools
 - **Languages:** Java, Python, SQL  
 - **Tech Tools:** Postman, JIRA, Selenium, IntelliJ IDEA, VScode  
 - **Version Control:** Git, GitHub  
 - **Test Management:** TestRail, Zephyr
+
 
 ### Featured Projects
 
